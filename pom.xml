@@ -6,7 +6,13 @@
 
     <groupId>org.kw</groupId>
     <artifactId>TP1</artifactId>
+<<<<<<< HEAD
     <version>2.0</version>
+=======
+    <version>1.0-SNAPSHOT</version>
+         
+         fsafsafsafsa
+>>>>>>> 67d6394614174cd9fe1b27d75dd89d793e54c114
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
